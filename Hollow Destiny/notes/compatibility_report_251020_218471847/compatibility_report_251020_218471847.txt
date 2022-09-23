@@ -1,0 +1,148 @@
+Converting GML script: ${project_dir}\scripts\Jump\Jump.gml
+Converted string - line 60: 'Z' -> "Z"
+Converted string - line 70: 'Z' -> "Z"
+Converted string - line 87: 'Z' -> "Z"
+Converted string - line 91: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\scripts\JumpViking\JumpViking.gml
+Converted string - line 30: 'Z' -> "Z"
+Converted string - line 34: 'Z' -> "Z"
+Converted string - line 41: 'Z' -> "Z"
+Converted string - line 45: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\scripts\ChangeSprite\ChangeSprite.gml
+Converted description /// @description ChangeSprite(Sprite,Speed,Size)/// @param Sprite
+/// @param Speed
+/// @param Size
+
+Converting GML script: ${project_dir}\objects\oProgress\Create_0.gml
+Converted builtin - line 160: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 160: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 3: ' ' -> " "
+
+Converting GML script: ${project_dir}\objects\oProgress\Step_0.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 28: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 41: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 48: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 28: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 41: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 48: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 30: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oProgress\Draw_64.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oProgress\Draw_0.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 32: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 32: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 32: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 32: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 32: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 32: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oGame\Step_0.gml
+Converted string - line 31: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oPlayerPile\Step_0.gml
+Converted string - line 5: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oMenu\Create_0.gml
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oMenu\Step_0.gml
+Converted builtin - line 57: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 58: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 59: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 60: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 61: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 67: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 57: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 58: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 59: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 60: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 61: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 67: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oMenu\Draw_0.gml
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 29: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 29: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oPlayButton\Step_0.gml
+Converted string - line 4: 'Z' -> "Z"
+Converted string - line 15: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oDestinyButton\Step_0.gml
+Converted string - line 4: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oCreditsButton\Step_0.gml
+Converted string - line 4: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oCreateButton\Step_0.gml
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 4: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oExitButton\Step_0.gml
+Converted string - line 4: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oOptionButton\Step_0.gml
+Converted string - line 3: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oMemoryGlimpse\Step_0.gml
+Converted string - line 4: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}\objects\oReadBox\Step_0.gml
+Converted string - line 3: 'Z' -> "Z"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'aMenu' - setting to default audio group
+Missing audiogroup for sound: 'aLimbo1' - setting to default audio group
+Missing audiogroup for sound: 'aLimbo2' - setting to default audio group
+Missing audiogroup for sound: 'aLimbo3' - setting to default audio group
+Missing audiogroup for sound: 'aGrab1' - setting to default audio group
+Missing audiogroup for sound: 'aGrab2' - setting to default audio group
+Missing audiogroup for sound: 'aGrab3' - setting to default audio group
+Missing audiogroup for sound: 'aJump' - setting to default audio group
+Missing audiogroup for sound: 'aLand' - setting to default audio group
+Missing audiogroup for sound: 'aPlayerPileDeath' - setting to default audio group
+Missing audiogroup for sound: 'aPlayerPileDamage' - setting to default audio group
+Missing audiogroup for sound: 'aPlayerDeath' - setting to default audio group
+Missing audiogroup for sound: 'aHitPlay' - setting to default audio group
+Missing audiogroup for sound: 'aMemoryGlimpseForming' - setting to default audio group
+Missing audiogroup for sound: 'aMemoryGlimpseFlash' - setting to default audio group
+Missing audiogroup for sound: 'aNotEnoughFragments' - setting to default audio group
+Missing audiogroup for sound: 'aBreak1' - setting to default audio group
+Missing audiogroup for sound: 'aBreak2' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
